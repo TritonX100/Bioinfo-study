@@ -1,2 +1,3 @@
-# ZY-Bioinformatics-Tutorial
-A repository for Bioinformatics Tutorial course study.
+# 生物信息学实践
+This is a repository for my Bioinformatics Tutorial course study.
+
